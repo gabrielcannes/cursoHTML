@@ -5,3 +5,11 @@ p {
 h1 {
     text-align: center;
 }
+
+body {
+    background: #CCCCCC;
+}
+
+#test {
+    color: red;
+}
