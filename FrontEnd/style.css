@@ -13,3 +13,12 @@ body {
 #test {
     color: red;
 }
+
+#segundoParagrafo {
+    font-size: 20px
+}
+
+#banner {
+    width: 100%;
+    align-items: center;
+}
