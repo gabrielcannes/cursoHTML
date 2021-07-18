@@ -2,12 +2,8 @@ p {
     text-align: center;
 }
 
-h1 {
+h2 {
     text-align: center;
-}
-
-body {
-    background: #CCCCCC;
 }
 
 #test {
@@ -21,4 +17,39 @@ body {
 #banner {
     width: 100%;
     align-items: center;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+.principal {
+    background: #CCCCCC;
+    padding: 30px;
+}
+
+h3 {
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+#benef {
+    height: 100px;
+    width: 60%;
+    align-items: center;
+}
+
+.title {
+    padding-left: 20px;
 }
